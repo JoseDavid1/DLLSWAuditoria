@@ -1,0 +1,11 @@
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\bin\Debug\ObjetivosFramework.dll
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\bin\Debug\ObjetivosFramework.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.Properties.Resources.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.csproj.GenerateResource.Cache
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.dll
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.objetivo.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\bin\Debug\MySql.Data.dll
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\bin\Debug\Connection.dll
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\bin\Debug\Connection.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\ObjetivosFramework\ObjetivosFramework\obj\Debug\ObjetivosFramework.csprojResolveAssemblyReference.cache
